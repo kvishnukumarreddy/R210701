@@ -34,25 +34,26 @@ Go to http://127.0.0.1:8000
 
 ---
 
-📂 Project Structure
+ Project Structure
 
-FarmHub/
-├── manage.py
-├── db.sqlite3
-├── farmhub/
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-└── core/
-    ├── models.py
-    ├── views.py
-    ├── urls.py
-    └── templates/
-        ├── home.html
-        ├── register.html
-        ├── login.html
-        ├── dashboard.html
-        └── products.html
+
+FarmHub
+- manage.py
+- db.sqlite3
+- farmhub
+   - settings.py
+   - urls.py
+   - wsgi.py
+- core
+   - models.py
+   - views.py
+   - urls.py
+   - templates
+      - home.html
+      - register.html
+      - login.html
+      - dashboard.html
+      - products.html
 
 ---
 
