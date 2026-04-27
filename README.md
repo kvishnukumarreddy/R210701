@@ -20,11 +20,11 @@ git clone https://github.com/kvishnukumarreddy/FarmHub.git
 cd FarmHub
 2. Install dependencies
 Bash
-pip install django
+   pip install django
 3. Run migrations & start server
 Bash
-python manage.py migrate
-python manage.py runserver
+  python manage.py migrate
+  python manage.py runserver
 4. Open browser
 Go to http://127.0.0.1:8000
 
