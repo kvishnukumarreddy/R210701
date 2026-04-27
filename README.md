@@ -15,7 +15,7 @@ An Online Farm Product Management System developed using Django that:
 ## 🚀 Quick Start
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/kvishnukumarreddy/FarmHub.git
 cd FarmHub
 2. Install dependencies
@@ -47,6 +47,8 @@ FarmHub/
         ├── login.html
         ├── dashboard.html
         └── products.html
+
+        
 🌟 Main Features
 Farmer Registration and Login
 Customer Registration and Login
@@ -56,12 +58,17 @@ Product Search Functionality
 Admin Dashboard
 User Authentication
 Product Management
+
+
 🛠 Tech Stack
 Backend: Django, Python 3.10+
 Frontend: HTML, CSS, Bootstrap
 Database: SQLite3
 Authentication: Django User Authentication
+
+
 🔑 Modules Included
+
 User Registration Module
 User Login Module
 Product Add/View Module
