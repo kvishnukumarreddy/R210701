@@ -95,7 +95,4 @@ The main objective of FarmHub is to provide a digital platform where farmers can
 
 ---
 
-👨‍💻 Author
 
-Vishnu Kumar Reddy
-Computer Science Student
